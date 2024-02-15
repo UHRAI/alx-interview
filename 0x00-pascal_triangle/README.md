@@ -2,12 +2,13 @@
 *Algorithm & Python*
 
 # Resources:
-- What is Pascal’s triangle
-- Pascal’s Triangle - Numberphile
-- What are Python Algorithms
+- What is Pascal’s triangle (https://www.cuemath.com/algebra/pascals-triangle/)
+- Pascal’s Triangle - Numberphile (https://www.youtube.com/watch?feature=shared&v=0iMtlus-afo)
+- What are Python Algorithms (https://builtin.com/data-science/python-algorithms)
 # Additional Resources
-- Mock Technical Interview
+- Mock Technical Interview (https://www.youtube.com/watch?feature=shared&v=1qw5ITr3k9E)
 # Must Know
+
 To successfully complete this project, you should revise the following Python concepts:
 
 1. Lists and List Comprehensions:
@@ -20,11 +21,11 @@ To successfully complete this project, you should revise the following Python co
 - Pass parameters and return values, particularly how to return a list of lists representing Pascal’s Triangle.
 3. Loops:
 
-- Use for and while loops to iterate through sequences.
+- Use `for` and `while` loops to iterate through sequences.
 - Nested loops may be necessary for generating each row and calculating the values of Pascal’s Triangle.
 4. Conditional Statements:
 
-- Apply if, elif, and else conditions to implement logic based on the position within Pascal’s Triangle (e.g., the edges of the triangle always being 1).
+- Apply `if`, `elif`, and `else` conditions to implement logic based on the position within Pascal’s Triangle (e.g., the edges of the triangle always being 1).
 5. Recursion (Optional):
 
 - While not strictly necessary, understanding recursion can provide an alternative approach to generating Pascal’s Triangle.
@@ -51,10 +52,10 @@ By revisiting these concepts, you will be well-prepared to tackle the challenges
 0. Pascal's Triangle
 *mandatory*
 
-Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
+Create a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal’s triangle of `n`:
 
-Returns an empty list if n <= 0
-You can assume n will be always an integer
+- Returns an empty list if `n <= 0`
+- You can assume `n` will be always an integer
 
 `guillaume@ubuntu:~/0x00$ cat 0-main.py`
 
