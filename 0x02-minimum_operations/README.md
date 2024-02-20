@@ -1,5 +1,5 @@
 # `0x02. Minimum Operations`
-`Algorithm & Python`
+`Algorithm` `Python`
 
 For this project, you will need to understand several key algorithmic and mathematical concepts to devise a solution that efficiently calculates the minimum number of operations to achieve a given number of characters using only “Copy All” and “Paste” operations. Here is a list of concepts and resources that will be helpful:
 
@@ -40,7 +40,9 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - All your files must be executable
 # Tasks
 0. Minimum Operations
+
 `mandatory`
+
 In a text file, there is a single character `H`. Your text editor can execute only two operations in this file: `Copy All` and `Paste`. Given a number `n`, write a method that calculates the fewest number of operations needed to result in exactly `n` `H` characters in the file.
 
 - Prototype: `def minOperations(n)`
@@ -78,7 +80,7 @@ carrie@ubuntu:~/0x02-minoperations$
 ```
 **Repo:**
 
-GitHub repository: alx-interview
-Directory: 0x02-minimum_operations
-File: 0-minoperations.py
+- GitHub repository: alx-interview
+- Directory: 0x02-minimum_operations
+- File: 0-minoperations.py
   
