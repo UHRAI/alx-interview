@@ -1,5 +1,5 @@
 # `0x00. Pascal's Triangle`
-*Algorithm & Python*
+`Algorithm` `Python`
 
 # Resources:
 - What is Pascal’s triangle (https://www.cuemath.com/algebra/pascals-triangle/)
@@ -50,7 +50,8 @@ By revisiting these concepts, you will be well-prepared to tackle the challenges
 
 # Tasks
 0. Pascal's Triangle
-*mandatory*
+
+`mandatory`
 
 Create a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal’s triangle of `n`:
 
