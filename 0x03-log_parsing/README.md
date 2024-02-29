@@ -32,24 +32,26 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.
 
 # Additional Resources
-Mock Technical Interview
+- Mock Technical Interview(https://www.youtube.com/watch?feature=shared&v=5dRTK-_Bzd0)
+
 # Requirements
 ## General
-Allowed editors: vi, vim, emacs
-All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
-All your files should end with a new line
-The first line of all your files should be exactly #!/usr/bin/python3
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the PEP 8 style (version 1.7.x)
-All your files must be executable
-The length of your files will be tested using wc
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `python3` (version 3.4.3)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/python3`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should use the `PEP 8` style (version 1.7.x)
+- All your files must be executable
+- The length of your files will be tested using `wc`
+
 # Tasks
 0. Log parsing
-mandatory
-Write a script that reads stdin line by line and computes metrics:
+`mandatory`
+Write a script that reads `stdin` line by line and computes metrics:
 
-Input format: <IP Address> - [<date>] "GET /projects/260 HTTP/1.1" <status code> <file size> (if the format is not this one, the line must be skipped)
-After every 10 lines and/or a keyboard interruption (CTRL + C), print these statistics from the beginning:
+- Input format: <IP Address> - [<date>] "GET /projects/260 HTTP/1.1" <status code> <file size> (if the format is not this one, the line must be skipped)
+- After every 10 lines and/or a keyboard interruption (CTRL + C), print these statistics from the beginning:
 Total file size: File size: <total size>
 where <total size> is the sum of all previous <file size> (see input format above)
 Number of lines by status code:
