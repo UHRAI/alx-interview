@@ -46,7 +46,7 @@ By studying these concepts and utilizing the resources provided, you will be wel
 - The length of your files will be tested using `wc`
 
 # Tasks
-0. **Log parsing** 						`mandatory`
+0. **Log parsing** `mandatory`
 
 Write a script that reads `stdin` line by line and computes metrics:
 
