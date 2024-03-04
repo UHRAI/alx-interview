@@ -12,16 +12,16 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 
 	- Familiarity with the UTF-8 encoding rules, including how characters are encoded into one or more bytes.
 	- Understanding the patterns that represent a valid UTF-8 encoded character.
-	- UTF-8 Wikipedia()
-Characters, Symbols, and the Unicode Miracle
-The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets
-Data Representation:
+	- UTF-8 Wikipedia(https://en.wikipedia.org/wiki/UTF-8)
+	- Characters, Symbols, and the Unicode Miracle(https://www.youtube.com/watch?v=MijmeoH9LT4)
+	- The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets(https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+3. **Data Representation:**
 
-How to represent and work with data at the byte level.
-Handling the least significant bits (LSB) of integers to simulate byte data.
-List Manipulation in Python:
+	- How to represent and work with data at the byte level.
+	- Handling the least significant bits (LSB) of integers to simulate byte data.
+4. **List Manipulation in Python:**
 
-Iterating through lists, accessing list elements, and understanding list comprehensions.
+	- Iterating through lists, accessing list elements, and understanding list comprehensions.
 Python Lists
 Boolean Logic:
 
