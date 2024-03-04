@@ -22,17 +22,18 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 4. **List Manipulation in Python:**
 
 	- Iterating through lists, accessing list elements, and understanding list comprehensions.
-Python Lists
-Boolean Logic:
+	- Python Lists(https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
+5. **Boolean Logic:**
 
-Applying logical operations to make decisions within the program.
+	- Applying logical operations to make decisions within the program.
+
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the UTF-8 validation project, effectively applying bitwise operations and logical reasoning to determine the validity of UTF-8 encoded data.
 
-Additional Resource
-Mock Technical Interview
-Requirements
-General
-Allowed editors: vi, vim, emacs
+# Additional Resource
+- Mock Technical Interview(https://www.youtube.com/watch?v=QvqvMxg24gY)
+# Requirements
+## General
+- Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
 All your files should end with a new line
 The first line of all your files should be exactly #!/usr/bin/python3
