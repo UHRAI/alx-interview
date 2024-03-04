@@ -42,7 +42,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - All your files must be executable
 # Tasks
 0. UTF-8 Validation
-mandatory
+`mandatory`
 
 Write a method that determines if a given data set represents a valid UTF-8 encoding.
 
