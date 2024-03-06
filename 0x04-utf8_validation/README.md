@@ -31,6 +31,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 
 # Additional Resource
 - Mock Technical Interview(https://www.youtube.com/watch?v=QvqvMxg24gY)
+
 # Requirements
 ## General
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -40,18 +41,19 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - A `README.md` file, at the root of the folder of the project, is mandatory
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
+
 # Tasks
 0. UTF-8 Validation
 `mandatory`
 
 Write a method that determines if a given data set represents a valid UTF-8 encoding.
 
-- Prototype: `def validUTF8(data)`
-- Return: `True` if data is a valid UTF-8 encoding, else return `False`
-- A character in UTF-8 can be 1 to 4 bytes long
-- The data set can contain multiple characters
-- The data will be represented by a list of integers
-- Each integer represents 1 byte of data, therefore you only need to handle the 8 least significant bits of each integer
+	- Prototype: `def validUTF8(data)`
+	- Return: `True` if data is a valid UTF-8 encoding, else return `False`
+	- A character in UTF-8 can be 1 to 4 bytes long
+	- The data set can contain multiple characters
+	- The data will be represented by a list of integers
+	- Each integer represents 1 byte of data, therefore you only need to handle the 8 least significant bits of each integer
 ```
 carrie@ubuntu:~/0x04-utf8_validation$ cat 0-main.py
 #!/usr/bin/python3
