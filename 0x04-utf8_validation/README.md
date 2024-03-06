@@ -30,7 +30,7 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the UTF-8 validation project, effectively applying bitwise operations and logical reasoning to determine the validity of UTF-8 encoded data.
 
 # Additional Resource
-- Mock Technical Interview(https://www.youtube.com/watch?v=QvqvMxg24gY)
+	- Mock Technical Interview(https://www.youtube.com/watch?v=QvqvMxg24gY)
 
 # Requirements
 ## General
