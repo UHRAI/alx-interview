@@ -23,6 +23,7 @@ Using previous results to make future calculations faster, potentially necessary
 Loops and conditional statements for implementing game logic and algorithms.
 Arrays and lists for storing the integers and tracking removed numbers.
 # Resources:
+
 	- Prime Numbers and Sieve of Eratosthenes:
 
 		- Khan Academy: Prime Numbers: Introduction to prime numbers.
